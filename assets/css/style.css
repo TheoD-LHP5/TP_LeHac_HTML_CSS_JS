@@ -1,0 +1,76 @@
+.first{
+    background-color: #091c3d;
+    color: white;
+    justify-content: center;
+
+}
+
+.two{
+    background-color: #E6E6E6;
+    color: #091C6F;
+}
+
+.three{
+    background-color: #E6E6E6;
+    color: #091C6F;
+}
+
+#title{
+    justify-content: center;
+}
+
+.four{
+    background-color: #E0E0E0;
+}
+
+.upGreen{
+    color:#21CD36;
+    font-size: 2rem;
+}
+
+.logoClub{
+    width: 2.5rem;
+    height: auto;
+    margin-right: 1rem;
+}
+
+caption{
+    caption-side: top;
+    text-align: center;
+    font-size: 2rem;
+    color: #091C3E;
+    font-weight: bold;
+}
+
+.table td, .table th{
+    vertical-align: middle;
+}
+
+.formGreen{
+    color: #21CD36;
+}
+
+.formRed{
+    color: #EC1F21;
+}
+
+.formGray{
+    color: #ABABAB;
+}
+
+.eighteen{
+    background-color:#B3B3B3;
+}
+
+.ninetheenTwenty{
+    background-color: #808080;
+}
+
+.downRed{
+    color: #EC1F21;
+    font-size: 2rem;
+}
+
+.grayCircle{
+    color: #ABABAB;
+}
